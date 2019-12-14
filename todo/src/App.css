@@ -1,0 +1,8 @@
+.App {
+  margin: 0 auto;
+}
+
+.App div div:first-child {
+  width: 40%;
+  margin: 0 auto;
+}
